@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-Full Stack Developer with **3.5+ years of experience** building scalable, high-performance web applications using **React, Next.js, and TypeScript**.
+Full Stack Developer with **4+ years of experience** building scalable, high-performance web applications using **React, Next.js, and TypeScript**.
 
 - 🚀 ~18% performance improvement in production apps  
 - ⚡ 30% faster alert response time  
